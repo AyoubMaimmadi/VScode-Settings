@@ -36,7 +36,7 @@
   "editor.guides.bracketPairs": "active",
   "editor.foldingMaximumRegions": 10000,
   "git.enableSmartCommit": true,
-  "editor.quickSuggestions": true
-  // "editor.suggestOnTriggerCharacters": false,
-  // "editor.parameterHints.enabled": false
+  "editor.quickSuggestions": true,
+  "editor.suggestOnTriggerCharacters": false,
+  "editor.parameterHints.enabled": false
 }
