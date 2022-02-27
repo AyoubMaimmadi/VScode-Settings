@@ -15,7 +15,6 @@
   "terminal.integrated.defaultProfile.windows": "PowerShell -nologo",
   "explorer.confirmDelete": false,
   "explorer.confirmDragAndDrop": false,
-  "window.zoomLevel": 1.8,
   "editor.suggestSelection": "first",
   "liveServer.settings.donotShowInfoMsg": true,
   "workbench.preferredHighContrastColorTheme": "Default Dark+",
@@ -36,7 +35,9 @@
   "editor.guides.bracketPairs": "active",
   "editor.foldingMaximumRegions": 10000,
   "git.enableSmartCommit": true,
-  "editor.quickSuggestions": true,
-  "editor.suggestOnTriggerCharacters": false,
-  "editor.parameterHints.enabled": false
+  "editor.wordWrap": "bounded",
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "workbench.colorTheme": "Ayu Dark",
+  "workbench.iconTheme": "ayu",
+  "window.zoomLevel": 1
 }
