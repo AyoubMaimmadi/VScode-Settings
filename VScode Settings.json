@@ -37,7 +37,10 @@
   "git.enableSmartCommit": true,
   "editor.wordWrap": "bounded",
   "javascript.updateImportsOnFileMove.enabled": "always",
-  "workbench.colorTheme": "Ayu Dark",
   "workbench.iconTheme": "ayu",
+  "tabnine.experimentalAutoImports": true,
+  "editor.fontFamily": "'Fira Code', Consolas, 'Courier New', monospace",
+  "editor.fontLigatures": true,
+  "workbench.colorTheme": "Ayu Dark",
   "window.zoomLevel": 1
 }
