@@ -35,12 +35,24 @@
   "editor.guides.bracketPairs": "active",
   "editor.foldingMaximumRegions": 10000,
   "git.enableSmartCommit": true,
-  "editor.wordWrap": "bounded",
   "javascript.updateImportsOnFileMove.enabled": "always",
   "workbench.iconTheme": "ayu",
   "tabnine.experimentalAutoImports": true,
   "editor.fontFamily": "'Fira Code', Consolas, 'Courier New', monospace",
   "editor.fontLigatures": true,
   "workbench.colorTheme": "Ayu Dark",
+  "terminal.integrated.enableMultiLinePasteWarning": false,
+  "editor.inlineSuggest.enabled": true,
+  "github.copilot.enable": {
+    "*": true,
+    "yaml": false,
+    "plaintext": false,
+    "markdown": true
+  },
+  "editor.wordWrap": "on",
+  "workbench.editorAssociations": {
+    "*.swp": "default"
+  },
+  "sync.gist": "64a98fe8c1da53c4f0c6e0c39d0a2b23",
   "window.zoomLevel": 1
 }
