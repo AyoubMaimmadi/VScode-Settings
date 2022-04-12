@@ -36,7 +36,7 @@
   "editor.foldingMaximumRegions": 10000,
   "git.enableSmartCommit": true,
   "javascript.updateImportsOnFileMove.enabled": "always",
-  "workbench.iconTheme": "ayu",
+  "workbench.iconTheme": "material-icon-theme",
   "tabnine.experimentalAutoImports": true,
   "editor.fontFamily": "'Fira Code', Consolas, 'Courier New', monospace",
   "editor.fontLigatures": true,
@@ -54,5 +54,7 @@
     "*.swp": "default"
   },
   "sync.gist": "64a98fe8c1da53c4f0c6e0c39d0a2b23",
+  "git.ignoreRebaseWarning": true,
+  "diffEditor.ignoreTrimWhitespace": false,
   "window.zoomLevel": 1
 }
