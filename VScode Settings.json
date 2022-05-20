@@ -55,7 +55,7 @@
   "sync.gist": "64a98fe8c1da53c4f0c6e0c39d0a2b23",
   "git.ignoreRebaseWarning": true,
   "diffEditor.ignoreTrimWhitespace": false,
-  "window.zoomLevel": 1,
   "workbench.colorTheme": "Ayu Dark",
-  "C_Cpp.errorSquiggles": "Disabled"
+  "C_Cpp.errorSquiggles": "Disabled",
+  "window.zoomLevel": 1
 }
