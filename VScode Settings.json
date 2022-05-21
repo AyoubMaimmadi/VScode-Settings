@@ -24,7 +24,7 @@
   "editor.fontSize": 16,
   "editor.linkedEditing": true,
   "editor.defaultFormatter": "esbenp.prettier-vscode",
-  "prettier.semi": false,
+  "wrapttier.semi": false,
   "prettier.singleQuote": true,
   "editor.formatOnSave": true,
   "git.autofetch": true,
@@ -58,4 +58,19 @@
   "workbench.colorTheme": "Ayu Dark",
   "C_Cpp.errorSquiggles": "Disabled",
   "window.zoomLevel": 1
+  "prettier":{
+    "bracketSpacing": true,
+    "htmlWhitespaceSensitivity": "css",
+    "printWidth": 170,
+    "insertPragma": false,
+    "jsxBracketSameLine": false,
+    "jsxSingleQuote": false,
+    "proseWrap": "preserve",
+    "quoteProps": "as-needed",
+    "semi": true,
+    "singleQuote": true,
+    "useTabs": false,
+    "vueIndentScriptAndStyle": false,
+    "rangeStart": 0
+  }
 }
