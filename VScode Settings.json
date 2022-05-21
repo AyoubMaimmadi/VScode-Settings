@@ -57,8 +57,7 @@
   "diffEditor.ignoreTrimWhitespace": false,
   "workbench.colorTheme": "Ayu Dark",
   "C_Cpp.errorSquiggles": "Disabled",
-  "window.zoomLevel": 1
-  "prettier":{
+  "prettier": {
     "bracketSpacing": true,
     "htmlWhitespaceSensitivity": "css",
     "printWidth": 170,
@@ -72,5 +71,7 @@
     "useTabs": false,
     "vueIndentScriptAndStyle": false,
     "rangeStart": 0
-  }
+  },
+  "prettier.semi": false,
+  "window.zoomLevel": 0.8
 }
