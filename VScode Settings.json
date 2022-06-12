@@ -54,7 +54,6 @@
   "sync.gist": "64a98fe8c1da53c4f0c6e0c39d0a2b23",
   "git.ignoreRebaseWarning": true,
   "diffEditor.ignoreTrimWhitespace": false,
-  "workbench.colorTheme": "Ayu Dark",
   "C_Cpp.errorSquiggles": "Disabled",
   // "prettier": {
   //   "bracketSpacing": true,
@@ -74,5 +73,6 @@
   "prettier.semi": false,
   "reactSnippets.settings.prettierEnabled": true,
   "editor.formatOnSave": true,
+  "workbench.colorTheme": "Ayu Dark",
   "window.zoomLevel": 1
 }
